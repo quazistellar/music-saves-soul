@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ThePianoMaster\bin\Debug\ThePianoMaster.exe.config
+C:\Users\User\source\repos\ThePianoMaster\bin\Debug\ThePianoMaster.exe
+C:\Users\User\source\repos\ThePianoMaster\bin\Debug\ThePianoMaster.pdb
+C:\Users\User\source\repos\ThePianoMaster\obj\Debug\ThePianoMaster.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ThePianoMaster\obj\Debug\ThePianoMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ThePianoMaster\obj\Debug\ThePianoMaster.exe
+C:\Users\User\source\repos\ThePianoMaster\obj\Debug\ThePianoMaster.pdb
